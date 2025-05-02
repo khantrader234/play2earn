@@ -14,10 +14,27 @@ A Flutter-based play-to-earn mobile game that combines entertainment with blockc
 
 ## Getting Started
 
-1. Install Flutter
-2. Clone this repository
-3. Run `flutter pub get`
-4. Run `flutter run`
+### Prerequisites
+- Flutter SDK (latest version)
+- Node.js 14.x or higher
+- Git
+- Android Studio or Xcode (for mobile development)
+
+### Installation Steps
+1. Install Flutter by following the [official installation guide](https://flutter.dev/docs/get-started/install)
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/khantrader234/play2earn.git
+   cd play2earn
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
 
 ## Development
 
