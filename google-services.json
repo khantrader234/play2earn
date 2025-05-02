@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56093910685",
+    "project_id": "play-2-earn-68838",
+    "storage_bucket": "play-2-earn-68838.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56093910685:android:3dc356b971bcebee9ad674",
+        "android_client_info": {
+          "package_name": "com.example.play_2_earn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56093910685-5jnq4sipqvh3qtbpqkpc6edotp7bau1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.play_2_earn",
+            "certificate_hash": "cfd1bfe75d23ee0a353022dca68bf609e400d392"
+          }
+        },
+        {
+          "client_id": "56093910685-1rst2lkmb1ot9qh4jv3jkmjsjrtggrj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5tBmpIcVeoHv7tavYNyyG2e2zYOJhTz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56093910685-1rst2lkmb1ot9qh4jv3jkmjsjrtggrj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

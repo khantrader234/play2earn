@@ -1,0 +1,2 @@
+This is a placeholder file for the sounds directory.
+Add your game sound files here. 
