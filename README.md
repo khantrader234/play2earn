@@ -1,16 +1,31 @@
-# play_2_earn
+# Play2Earn Game
 
-A new Flutter project.
+A Flutter-based play-to-earn mobile game that combines entertainment with blockchain rewards.
+
+## Features
+
+- Multiple mini-games
+- Daily rewards system
+- In-game currency and rewards
+- User authentication
+- Profile management
+- Wallet integration
+- Achievement system
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Install Flutter
+2. Clone this repository
+3. Run `flutter pub get`
+4. Run `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## Development
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project uses:
+- Flutter for the frontend
+- Firebase for backend services
+- Node.js for additional backend functionality
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
